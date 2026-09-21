@@ -1,0 +1,6 @@
+{
+  "name": "Chef Box - Le Bistrot",
+  "description": "Bespoke web application for Chef Box - Le Bistrot in Rome with digital menu, live opening hours, and direct WhatsApp table reservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
